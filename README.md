@@ -1,2 +1,2 @@
-# QrCode-generation
+# QrCode generation
 QrCode generation in C
