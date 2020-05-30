@@ -4,6 +4,7 @@
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
+* [Status](#status)
 * [Contact](#contact)
 
 ## General info
@@ -17,6 +18,9 @@ Project is created with:
 	
 ## Setup
 Compile the code and launch the executable.
+
+## Status
+Project is finished.
 
 ## Contact
 For any question you can contact by email : jfrancoisteddy@gmail.com
